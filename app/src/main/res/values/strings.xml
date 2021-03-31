@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoTopApps</string>
+    <string name="todo">TODO</string>
+    <string name="menu_setting">Setting</string>
+    <string name="emergency">Emergency</string>
+    <string name="hotel">Hotel</string>
+    <string name="repair_car">Repair Car</string>
+    <string name="hospital">Hospital</string>
+    <string name="store">Store</string>
+    <string name="everything_is">Everything is here</string>
+    <string name="populer_saat_ini">Populer saat ini</string>
+</resources>
